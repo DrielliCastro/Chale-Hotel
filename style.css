@@ -5,12 +5,12 @@
 
 body {
     font-family: Helvetica, "trebuchet MS" ,sans-serif;
-    background: #fff url(./imagens/bg.png);
+    background: #fff url(./bg.png);
     margin: 15px;
 }
 
 #container {
-    background: #ede9cc url(./imagens/bg-container.png) top center repeat-y;
+    background: #ede9cc url(./bg-container.png) top center repeat-y;
     margin: 0 auto;
     min-width: 740px;
     max-width: 1180px;  
@@ -25,7 +25,7 @@ body {
 
 #area-logo {
     position: absolute;
-    background: url(./imagens/topo-imagem-principal2.png) no-repeat;
+    background: url(./topo-imagem-principal2.png) no-repeat;
     width: 100%;
     height: 250px;
     top: 0;
@@ -38,7 +38,7 @@ body {
      top: 15px;
      left: 15px;
      z-index: 3;
-     background: url(./imagens/logo.png) no-repeat;
+     background: url(./logo.png) no-repeat;
      width: 151px;
      height: 66px;
      text-indent: -500px;
@@ -47,7 +47,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    background:url(./imagens/topo-imagem-lateral.png) no-repeat;
+    background:url(./topo-imagem-lateral.png) no-repeat;
     width: 450px;
     height: 250px;
     z-index: 2;
@@ -128,14 +128,14 @@ ul#navegacao a:hover {
 #area-principal {
     width: 50%;
     float: left;
-    background: url(./imagens/bg-area-principal.png) top left repeat-x;
+    background: url(./bg-area-principal.png) top left repeat-x;
     padding: 15px 0px;
 }   
 
 #area-lateral {
     width: 50%;
     float: right;
-    background: url(./imagens/bg-area-lateral.png) top left repeat-x;
+    background: url(./bg-area-lateral.png) top left repeat-x;
     padding: 20px 0px;
 }
 
@@ -148,7 +148,7 @@ ul#navegacao a:hover {
 #rodape{
     clear: both;
     padding: 16px;
-    background: #fff url(./imagens/bg-rodape.png) repeat-x top;
+    background: #fff url(./bg-rodape.png) repeat-x top;
     color: #7d7640;
 }
 
@@ -183,7 +183,7 @@ p {
     font-size: 1.1em;
     color: #615b2d;
     padding: 5px 0;
-    background: url(./imagens/ornamento.png) no-repeat center right;
+    background: url(./ornamento.png) no-repeat center right;
 }
 
 #beneficios li {
